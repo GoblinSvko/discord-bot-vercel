@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "api/bot.py",
+        "use": "@vercel/python"
+      }
+    ],
+    "env": {
+      "DISCORD_TOKEN": "tutaj_wstaw_swoj_token_discord"
+    }
+  }
