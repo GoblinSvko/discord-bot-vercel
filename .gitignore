@@ -1,0 +1,13 @@
+# Ignorowanie folderu `.vercel`
+.vercel
+
+# Pliki tymczasowe Pythona
+*.pyc
+__pycache__/
+
+# Wirtualne środowiska
+env/
+venv/
+
+# Logi
+*.log
